@@ -1,4 +1,4 @@
-# Hello world!
+# <?php echo 'Hello world!';
 
 Meu nome é Eduardo Bona, mais conhecido como Bona.
 
