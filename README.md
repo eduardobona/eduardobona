@@ -2,7 +2,7 @@
 
 Meu nome é Eduardo Bona, mais conhecido como Bona.
 
-Sou co-fundador e CTO da [vivaweb.net](https://www.vivaweb.net) desde 2005.
+Sou co-fundador e CTO da [vivaworks.com.br](https://www.vivaworks.com.br) que foi durante anos mais conhecida como [vivaweb.net](https://www.vivaweb.net).
 
 Desde 2010 tenho atuado eventualmente como professor universitário em cursos de graduação e pós graduação em disciplinas de desenvolvimento web nas modalidades presencial e a distância.
 
@@ -17,8 +17,6 @@ Já na faculdade como todo bom estudante que gosta de ir atrás de novidades me 
 Em 2004 já ingressei no universo PHP e estou aqui desde então.
 
 ### Conteúdos
-- Escrevo posts para o [Blog da Vivaweb](htts://blog.vivaweb.net)
-- Gravo tutoriais para o Youtube da Vivaweb
 
 3 áreas técnicas atualmente fazem parte do meu dia a dia:
 - Backend para aplicações web (PHP / nodeJS)
